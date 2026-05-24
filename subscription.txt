@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # Date/Time: 2026-05-24 / 18:26 (Moscow)
 # support-url: https://t.me/jackordvpn_bot
-# announce: ↖️ Поддержите автора 🥺 | Телеграм ↗️         
+# announce:↖️ Поддержите автора 🥺        | Телеграм ↗️         
 # Количество: 150
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
