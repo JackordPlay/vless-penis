@@ -1,7 +1,7 @@
 # profile-title: Jackord×VPN 
 # profile-update-interval: 1
 # Date/Time: 2026-05-24 / 18:26 (Moscow)
-# announce: ТГ-бот: @jackordvpn_bot
+# announce: ТГ - бот: @jackordvpn_bot
 # Количество: 150
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
