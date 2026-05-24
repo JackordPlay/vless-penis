@@ -3,8 +3,8 @@
 # Date/Time: 2026-05-24 / 18:26 (Moscow)
 # support-url: https://t.me/jackordvpn_bot
 # announce: ↖️ Поддержите автора 🥺 | Телеграмм ↗️
-#announce: Не работает?
-#announce: Нажми 🔄, после этого нажми 🕛 и выбери сервер с минимальным мс                     
+#sub-info: Не работает?
+#sub-info: Нажми 🔄, после этого нажми 🕛 и выбери сервер с мин. мс                     
 # Количество: 150
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
